@@ -1,0 +1,10 @@
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\bin\Debug\EnableICS.exe
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\bin\Debug\EnableICS.pdb
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\obj\Debug\EnableICS.Form1.resources
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\obj\Debug\EnableICS.Properties.Resources.resources
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\obj\Debug\EnableICS.csproj.GenerateResource.Cache
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\obj\Debug\EnableICS.exe
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\obj\Debug\EnableICS.pdb
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\bin\Debug\EnableICS.exe.config
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\bin\Debug\IcsManagerLibrary.dll
+d:\data\documents\visual studio 2013\Projects\EnableICS\EnableICS\bin\Debug\IcsManagerLibrary.pdb
